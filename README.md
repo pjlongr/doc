@@ -58,3 +58,8 @@
 
 - [DirectFB](https://github.com/deniskropp/DirectFB/archive/DIRECTFB_1_7_7.tar.gz)
 
+# 免费
+
+- [5个免费的静态Web应用部署平台]([5个免费的静态Web应用部署平台-腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1987796))
+- [https://dashboard.4everland.org/](https://dashboard.4everland.org/)
+- [7个实用的免费网站托管站点-CSDN博客](https://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/105897744)
