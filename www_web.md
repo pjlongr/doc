@@ -169,6 +169,14 @@
 
 - [软件先锋-软件下载-软件下载平台-电脑软件-电脑软件下载 (macxf.com)](https://soft.macxf.com/)
 
+## APN 信息查询
+
+- [apnsettings](https://www.apnsettings.org/)
+
+- [mobilebroadbandprovider](https://mobilebroadbandprovider.info/)
+
+- [apn.how](https://apn.how/)
+
 ## 邮编
 
 - [首页 邮政编码查询 - 邮编库 ✉️ (youbianku.com)](https://www.youbianku.com/首页)
